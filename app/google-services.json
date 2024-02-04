@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "462461359620",
+    "project_id": "sample-social-d6e73",
+    "storage_bucket": "sample-social-d6e73.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462461359620:android:75ef76a4ab1aa67b810751",
+        "android_client_info": {
+          "package_name": "com.neatroots.samplesocial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "462461359620-2grlkmkmobur0o9cc1h68ke55q8gffvs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZE80ahMudsf7xvz4pPXPmGgi7jj-I1-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "462461359620-2grlkmkmobur0o9cc1h68ke55q8gffvs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
